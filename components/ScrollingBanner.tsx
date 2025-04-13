@@ -40,8 +40,6 @@ const ScrollingBanner = React.forwardRef<HTMLDivElement, ScrollingBannerProps>(
 
     return null;
     );
-  }
-);
 
 ScrollingBanner.displayName = "ScrollingBanner";
 
